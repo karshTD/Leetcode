@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/karshTD/Leetcode/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
@@ -70,8 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karshTD/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/karshTD/Leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
