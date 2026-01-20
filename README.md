@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0863-sum-of-distances-in-tree](https://github.com/karshTD/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/karshTD/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/karshTD/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshTD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/karshTD/Leetcode/tree/master/0036-valid-sudoku) |
+| [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -92,13 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/karshTD/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
+| [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/karshTD/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
+| [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 <!---LeetCode Topics End-->
