@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/karshTD/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/karshTD/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
