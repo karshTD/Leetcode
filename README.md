@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/karshTD/Leetcode/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/karshTD/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/karshTD/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/karshTD/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/karshTD/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/karshTD/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/karshTD/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/karshTD/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/karshTD/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
