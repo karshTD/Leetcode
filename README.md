@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/karshTD/Leetcode/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/karshTD/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/karshTD/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/karshTD/Leetcode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/karshTD/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/karshTD/Leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/karshTD/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
