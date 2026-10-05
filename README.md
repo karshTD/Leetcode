@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshTD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/karshTD/Leetcode/tree/master/0567-permutation-in-string) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karshTD/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/karshTD/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/karshTD/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/karshTD/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/karshTD/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/karshTD/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshTD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/karshTD/Leetcode/tree/master/0567-permutation-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karshTD/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/karshTD/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/karshTD/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
