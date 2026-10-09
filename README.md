@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/karshTD/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karshTD/Leetcode/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0863-sum-of-distances-in-tree](https://github.com/karshTD/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Tree
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/karshTD/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/karshTD/Leetcode/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/karshTD/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/karshTD/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/karshTD/Leetcode/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Interactive
 |  |
 | ------- |
