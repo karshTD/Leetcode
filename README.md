@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/karshTD/Leetcode/tree/master/0739-daily-temperatures) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karshTD/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/karshTD/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/karshTD/Leetcode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Interactive
 |  |
 | ------- |
