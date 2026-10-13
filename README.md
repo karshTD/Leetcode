@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karshTD/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karshTD/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/karshTD/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/karshTD/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
@@ -260,4 +263,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/karshTD/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
