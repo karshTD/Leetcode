@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/karshTD/Leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/karshTD/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Tree
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/karshTD/Leetcode/tree/master/0079-word-search) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/karshTD/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/karshTD/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshTD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/karshTD/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/karshTD/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2608-shortest-cycle-in-a-graph](https://github.com/karshTD/Leetcode/tree/master/2608-shortest-cycle-in-a-graph) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/karshTD/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -296,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
