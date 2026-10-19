@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/karshTD/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karshTD/Leetcode/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0863-sum-of-distances-in-tree](https://github.com/karshTD/Leetcode/tree/master/0863-sum-of-distances-in-tree) |
 ## Tree
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/karshTD/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/karshTD/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/karshTD/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/karshTD/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/karshTD/Leetcode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
