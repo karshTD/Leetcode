@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1584-min-cost-to-connect-all-points](https://github.com/karshTD/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [3493-properties-graph](https://github.com/karshTD/Leetcode/tree/master/3493-properties-graph) |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karshTD/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/karshTD/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/karshTD/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Interactive
 |  |
