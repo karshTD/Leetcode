@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/karshTD/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/karshTD/Leetcode/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/karshTD/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0980-unique-paths-iii](https://github.com/karshTD/Leetcode/tree/master/0980-unique-paths-iii) |
 | [0997-find-the-town-judge](https://github.com/karshTD/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/karshTD/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/karshTD/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/karshTD/Leetcode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/karshTD/Leetcode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/karshTD/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/karshTD/Leetcode/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/karshTD/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/karshTD/Leetcode/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/karshTD/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/karshTD/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/karshTD/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/karshTD/Leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
